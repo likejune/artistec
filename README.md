@@ -209,4 +209,4 @@ julia-cms/
 
 **Порт 3000 занят.** `PORT=3001 npm start` (Linux/macOS) или `set PORT=3001 && npm start` (Windows).
 #   a r t i s t e c  
- 
+ # artistec
